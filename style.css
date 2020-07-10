@@ -1,0 +1,23 @@
+.main {
+    margin-top: 3%;
+    padding: 0;
+}
+
+.body {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 1%;
+    height: 550px;
+}
+
+.disp {
+    height: 548px;
+    background-color: aqua;
+    border-radius: 1% 0% 0% 1%;
+}
+
+.nav {
+    background-color: aquamarine;
+    height: 548px;
+    border-radius: 0% 2% 2% 0%;
+}
